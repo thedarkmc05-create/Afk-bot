@@ -597,6 +597,6 @@ function periodicRejoin(bot) {
 // MOVEMENT HELPERS
 // ============================================================
 function startCircleWalk(bot, defaultMove) {
-  console.log('='repeat(50));
+  console.log('='.repeat(50));
 
 createBot();
